@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Notes by mdxe</title>
+    <link>http://mdxe.github.iog/</link>
+    <description>Recent content in Notes on Notes by mdxe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 16:27:48 -0500</lastBuildDate><atom:link href="http://mdxe.github.iog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Days-Since-Date Calculator - Client-Side App</title>
+      <link>http://mdxe.github.iog/posts/_2023-01-30-days-since-date-calculator-client-side-app/</link>
+      <pubDate>Sun, 29 Jan 2023 16:27:48 -0500</pubDate>
+      
+      <guid>http://mdxe.github.iog/posts/_2023-01-30-days-since-date-calculator-client-side-app/</guid>
+      <description>Repo: https://github.com/mdxe/days_since_date_app Demo: Days Since Date Calculator - Client-Side App </description>
+    </item>
+    
+  </channel>
+</rss>
